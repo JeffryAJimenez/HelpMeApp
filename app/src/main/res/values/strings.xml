@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelpMePlease</string>
+    <string name="contactName">Enter Contact Full Name</string>
+    <string name="contactRank">Enter Priority 1...6</string>
+    <string name="addContact">Add</string>
+    <string name="inDanger">Im in Danger!</string>
+    <string name="clearList">Clear List</string>
+    <string name="safeButton">SAFE</string>
+</resources>
